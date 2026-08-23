@@ -1,6 +1,6 @@
 # Yusuf Tunga
 
-**Canlı site:** https://codewithtunga.github.io
+**Canlı site:** https://yusuftunga1.github.io
 
 Kaydırdıkça açılan sinematik kişisel site. Ziyaretçi aşağı kaydırdıkça kahraman video da
 aynı yönde ilerliyor, yukarı kaydırdıkça geri sarıyor. Sayfa videonun durduğu yerde
