@@ -1,0 +1,18 @@
+# işletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# düzenleyici
+.vscode/
+.idea/
+*.swp
+
+# bağımlılıklar ve günlükler
+node_modules/
+*.log
+
+# ham ve inceleme dosyaları buraya asla girmemeli
+review/
+raw/
+*.zip
