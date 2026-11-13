@@ -1,3 +1,5 @@
+> **Not:** Bu web sitesi bir örnek / test sitesidir ve ticari amaç taşımaz. Kişisel veri toplamak amaçlanmaz; lütfen formlara gerçek kişisel bilgilerinizi girmeyin.
+
 <div align="center">
 
 # 🎬 Yusuf Tunga — Cinematic Scroll Personal Website
